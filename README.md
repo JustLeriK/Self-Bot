@@ -1,4 +1,4 @@
-# LERIK-Self-Bot
+# HAZEL-Self-Bot
 Discord Self Bot
 
 
